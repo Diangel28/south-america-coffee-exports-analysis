@@ -34,5 +34,4 @@ Analysis of coffee export volumes and trends for **Brazil**, **Colombia**, and *
 ## 📌 Data Sources
 Data compiled from ICO, USDA Foreign Agricultural Service, and national export agencies.
 
----
-⭐ *Feel free to fork and explore the data yourself!*
+
